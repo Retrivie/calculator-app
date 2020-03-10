@@ -8,5 +8,9 @@ class Calculator
 	{
 		return a + b;
 	}
-
+	
+	static int Penambahan(int a, int b)
+	{
+		return a - b;
+	}
 }
